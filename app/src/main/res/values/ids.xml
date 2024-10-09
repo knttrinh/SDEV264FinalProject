@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="task_priority" type="id" />
+    <item name="task_completed" type="id" />
+    <item name="task_title" type="id" />
+    <item name="add_task_button" type="id" />
+    <item name="task_list" type="id" />
+</resources>
